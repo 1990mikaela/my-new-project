@@ -1,11 +1,3 @@
-
-
-
-Final project for the Building AI course
-
-
-Building AI Course project
-
 # Pawsome Classifier
 
 My idea in a nutshell: Pawsome Classifier is a project that uses AI and machine learning to classify images of dogs and cats.
