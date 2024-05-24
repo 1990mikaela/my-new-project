@@ -1,6 +1,7 @@
 # Pawsome Classifier
 
-## Summary My idea in a nutshell: Pawsome Classifier is a project that uses AI and machine learning to classify images of dogs and cats.
+## Summary 
+My idea in a nutshell: Pawsome Classifier is a project that uses AI and machine learning to classify images of dogs and cats.
 
 **Background:**
 The problem my project aims to solve is the ability to accurately classify images of dogs and cats. This problem is common and frequent, especially with the rise of social media platforms where pet owners share pictures of their furry friends.
