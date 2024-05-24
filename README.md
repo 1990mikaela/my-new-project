@@ -3,7 +3,7 @@
 
 Final project for the Building AI course
 
-## Summary# my-new-project
+
 Building AI Course project
 
 # Pawsome Classifier
